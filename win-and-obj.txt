@@ -1,6 +1,7 @@
 Title: Deciphering the Differences Between the Document and Window Objects in JavaScript
 
-Introduction:
+Introduction:- 
+
 The document and window objects are two of the most important objects in JavaScript.
 The document object represents the HTML document that is loaded in the browser, while the window object represents the browser window itself.
 In the realm of web development, understanding the interactions between different objects and entities is essential. 
